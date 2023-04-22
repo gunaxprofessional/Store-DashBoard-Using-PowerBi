@@ -17,7 +17,10 @@ The dashboard provides a user-friendly interface with the following features:
 
 + **Region Wise Overview**: Displays sales, orders, and quantity data based on the region. It also displays the top 10 states with the highest sales.
 
-# Screenshots
+# Screenshot
+
+![image](https://user-images.githubusercontent.com/66107066/233774937-340424f2-c797-48de-b65b-2ff3951be483.png)
+
 
 # Usage
 The dashboard provides a user-friendly interface that can be easily navigated. The various pages can be accessed by clicking on the tabs at the bottom of the screen. The data can be filtered using the filter options on the right-hand side of the screen.
