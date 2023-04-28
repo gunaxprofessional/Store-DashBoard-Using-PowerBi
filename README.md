@@ -3,7 +3,9 @@
 
 This dashboard is designed to provide insights into the sample-superstore dataset. The dashboard has been created using PowerBI, a data visualization tool that helps to create interactive and informative reports and dashboards.
 
-The purpose of this dashboard is to provide a quick overview of the sales, orders, quantity, and region wise data to the user. The web app can be found here. https://app.powerbi.com/view?r=eyJrIjoiMmM1ZjNmMTUtZWM1Ni00NWI2LWIwODgtOWRjYWI0MzIzMzdkIiwidCI6Ijg5M2M5ZjIyLWJkY2ItNDIxMS1hOWEzLWUyZGRlMmM4OTA1NSJ9
+The purpose of this dashboard is to provide a quick overview of the sales, orders, quantity, and region wise data to the user. The web app can be found here. 
+
+https://app.powerbi.com/view?r=eyJrIjoiMmM1ZjNmMTUtZWM1Ni00NWI2LWIwODgtOWRjYWI0MzIzMzdkIiwidCI6Ijg5M2M5ZjIyLWJkY2ItNDIxMS1hOWEzLWUyZGRlMmM4OTA1NSJ9
 
 # Features
 
